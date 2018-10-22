@@ -1,0 +1,17 @@
+.app-sorteio {
+    display: flex;
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+.app-sorteio-card {
+    width: 600px;
+    padding: 50px;
+    margin: auto;
+}
+.app-login-card mat-card-content {
+    margin-bottom: 0px !important;
+}
